@@ -1,0 +1,184 @@
+[
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy S22 5G",
+      "slug": "samsung_galaxy_s22_5g-11253",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-5g.jpg",
+      "id":"1"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy Tab S8+",
+      "slug": "samsung_galaxy_tab_s8+-11342",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s8-plus.jpg",
+      "id":"2"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy Tab S8 Ultra",
+      "slug": "samsung_galaxy_tab_s8_ultra-11274",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s8-ultra.jpg",
+      "id":"3"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy S22+ 5G",
+      "slug": "samsung_galaxy_s22+_5g-11252",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-plus-5g.jpg",
+      "id":"4"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy Tab S8",
+      "slug": "samsung_galaxy_tab_s8-11343",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s8.jpg",
+      "id":"5"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy S21 FE 5G",
+      "slug": "samsung_galaxy_s21_fe_5g-10954",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s21-fe-5g.jpg",
+      "id":"6"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy S22 Ultra 5G",
+      "slug": "samsung_galaxy_s22_ultra_5g-11251",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-ultra-5g.jpg",
+      "id":"7"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy Tab A8 10.5 (2021)",
+      "slug": "samsung_galaxy_tab_a8_10_5_(2021)-11265",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-a8-105-2021-new.jpg",
+      "id":"8"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy A13 5G",
+      "slug": "samsung_galaxy_a13_5g-11149",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a13-5g-.jpg",
+      "id":"9"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy A03 Core",
+      "slug": "samsung_galaxy_a03_core-11215",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a03-core.jpg",
+      "id":"10"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy A03",
+      "slug": "samsung_galaxy_a03-11244",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a03.jpg",
+      "id":"11"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy F42 5G",
+      "slug": "samsung_galaxy_f42_5g-11124",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f42-5g.jpg",
+      "id":"12"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy M22",
+      "slug": "samsung_galaxy_m22-11011",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m22-.jpg",
+      "id":"13"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy M52 5G",
+      "slug": "samsung_galaxy_m52_5g-11110",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m32-5g-.jpg",
+      "id":"14"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy M32 5G",
+      "slug": "samsung_galaxy_m32_5g-11062",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m32-5g-new.jpg",
+      "id":"15"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy A03s",
+      "slug": "samsung_galaxy_a03s-10937",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a03s.jpg",
+      "id":"16"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy Z Fold3 5G",
+      "slug": "samsung_galaxy_z_fold3_5g-10906",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold3-5g.jpg",
+      "id":"17"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy Z Flip3 5G",
+      "slug": "samsung_galaxy_z_flip3_5g-11044",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip3-5g.jpg",
+      "id":"18"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy Watch4 Classic",
+      "slug": "samsung_galaxy_watch4_classic-11046",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch4-classic.jpg",
+      "id":"19"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy A52s 5G",
+      "slug": "samsung_galaxy_a52s_5g-11039",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a52s-5g.jpg",
+      "id":"20"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy Watch4",
+      "slug": "samsung_galaxy_watch4-11045",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch4.jpg",
+      "id":"21"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy A12 (India)",
+      "slug": "samsung_galaxy_a12_(india)-11087",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a12-sm-a125.jpg",
+      "id":"22"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy A12 Nacho",
+      "slug": "samsung_galaxy_a12_nacho-11041",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a12-nacho.jpg",
+      "id":"23"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy F22",
+      "slug": "samsung_galaxy_f22-10996",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f22.jpg",
+      "id":"24"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy M21 2021",
+      "slug": "samsung_galaxy_m21_2021-11015",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m21-2021.jpg",
+      "id":"25"
+    },
+    {
+      "brand": "Samsung ",
+      "phone_name": "Galaxy M32",
+      "slug": "samsung_galaxy_m32-10887",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m32.jpg",
+      "id":"26"
+    }
+  ]
