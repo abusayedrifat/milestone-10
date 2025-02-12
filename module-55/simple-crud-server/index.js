@@ -13,15 +13,17 @@ app.get('/', (req, res) => {
   res.send("mongodb using as backend. Simple CRUD is running")
 
 })
+
+
 const {
   MongoClient,
   ServerApiVersion,
   ObjectId
 } = require('mongodb');
 
-const uri = "mongodb://localhost:27017"
+// const uri = "mongodb://localhost:27017"
 
-// const uri = "mongodb+srv://abusayedrifat0131:NiB2qHg5oAzsI22e@cluster0.faxnq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri = "mongodb+srv://abusayedrifat0131:NiB2qHg5oAzsI22e@cluster0.faxnq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 // Create a MongoClient with a MongoClientOptions object to set the Stable API version
 const client = new MongoClient(uri, {

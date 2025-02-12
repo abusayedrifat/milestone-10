@@ -11,7 +11,7 @@ const UpdateUsers = () => {
     const users = { name, email };
     console.log(users);
 
-    fetch(`http://localhost:5000/users/${loadedUser._id}`, {
+    fetch(`https://coffee-master-server-psi.vercel.app/users/${loadedUser._id}`, {
       method: 'PUT',
       headers: {
         "content-type": "application/json",

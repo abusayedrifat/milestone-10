@@ -1,0 +1,15 @@
+.eye:hover{
+    background:none;
+    border: #D2B48C 1px solid;
+    color: #D2B48C;
+}
+.pencil:hover{
+  background: none;
+    border: #3C393B 1px solid;
+    color: #3C393B;
+}
+.delete:hover{
+    background: none;
+    border: #EA4744 1px solid;
+    color: #EA4744;
+}
